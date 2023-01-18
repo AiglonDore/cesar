@@ -23,7 +23,6 @@ public:
     /**
      * @brief Construct a new Vigenere object.
      * 
-     * @param key Key to use.
      */
     Vigenere();
 
