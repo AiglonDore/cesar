@@ -1,0 +1,5 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main function." alt="" coords="5,31,60,57"/>
+<area shape="rect" id="node2" href="$class_code.html#aaf2402ff6a50ebfe1ede6b2446c8cc65" title="Codes the text." alt="" coords="116,5,211,32"/>
+<area shape="rect" id="node3" href="$class_code.html#a22efb9b45e97943b02eb62ebf211d33a" title="Decodes the text." alt="" coords="108,56,219,83"/>
+</map>
