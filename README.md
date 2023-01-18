@@ -2,7 +2,7 @@
 
 ## Caesar coding
 
-This code uses a shift of 3 to encode and decode a message.
+This code uses a shift of a number to encode and decode a message.
 
 ## Vigenere coding
 
